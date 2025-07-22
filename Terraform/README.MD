@@ -26,6 +26,7 @@ vagrant init
 vagrant up
 vagrant status
 vagrant ssh
+vagrant halt
 ```
 
 ## Terraform install
