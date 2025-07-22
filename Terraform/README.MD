@@ -41,3 +41,11 @@ sudo apt update && sudo apt install terraform
 ```
 terraform --version
 ```
+
+## use below commands
+
+```
+cd ../..
+cd vagrant
+ls
+```
