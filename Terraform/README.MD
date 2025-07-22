@@ -5,3 +5,8 @@ https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.e
 https://developer.hashicorp.com/vagrant/install
 https://code.visualstudio.com/download
 ```
+
+
+```
+https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+```
