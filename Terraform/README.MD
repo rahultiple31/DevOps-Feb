@@ -10,3 +10,20 @@ https://code.visualstudio.com/download
 ```
 https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
 ```
+
+
+Create Vagrantfile
+
+```
+Vagrant.configure("2") do |config|
+  config.vm.box = "ubuntu/ubuntu-24.04"
+end
+```
+
+## vagrant commands
+```
+vagrant init
+vagrant up
+vagrant status
+vagrant ssh
+```
