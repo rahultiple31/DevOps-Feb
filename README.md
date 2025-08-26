@@ -1,3 +1,3 @@
 # DevOps-Feb
 1. git & github
-2. ggg
+2. terraform
