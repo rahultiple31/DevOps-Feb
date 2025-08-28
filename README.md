@@ -13,6 +13,4 @@ git commit -m "comment"
 git pull
 git push --> use your user id & password
 
-git logs
-
 ```
