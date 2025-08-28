@@ -17,6 +17,6 @@ git push --> use your user id & password
 ```
 git pull
 git log  ---> copy commit id
-git revert commit_id
+git revert commit_id   OR  git reset commit_id
 git push
 ```
