@@ -20,3 +20,4 @@ git log  ---> copy commit id
 git revert commit_id   OR  git reset commit_id
 git push
 ```
+## revert
