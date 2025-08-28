@@ -12,5 +12,11 @@ git status
 git commit -m "comment"
 git pull
 git push --> use your user id & password
-
+```
+## Git rollback
+```
+git pull
+git log  ---> copy commit id
+git revert commit_id
+git push
 ```
